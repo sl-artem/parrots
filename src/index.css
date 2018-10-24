@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+button {
+  font-size: 14px;
+  background: blue;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 8px 12px;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+  padding-bottom: 8px;
+}
+
+h2 {
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.app {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.back-btn {
+  color: blue;
+  background: white;
+  border: 1px solid blue;
+}
+
+.welcome, .calculator {
+  display: flex;
+  flex-direction: column;
+  max-width: 640px;
+}
+
+.welcome-intro {
+  margin: 32px 0px;
+}
+
+.calculator-control {
+  display: flex;
+  flex-direction: column;
+  margin-top: 24px;
+}

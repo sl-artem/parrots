@@ -1,0 +1,13 @@
+{
+  "main.css": "/parrots/static/css/main.cb8f0c48.chunk.css",
+  "main.js": "/parrots/static/js/main.4bcff507.chunk.js",
+  "main.js.map": "/parrots/static/js/main.4bcff507.chunk.js.map",
+  "static/js/1.4fd91c74.chunk.js": "/parrots/static/js/1.4fd91c74.chunk.js",
+  "static/js/1.4fd91c74.chunk.js.map": "/parrots/static/js/1.4fd91c74.chunk.js.map",
+  "runtime~main.js": "/parrots/static/js/runtime~main.a5992ef6.js",
+  "runtime~main.js.map": "/parrots/static/js/runtime~main.a5992ef6.js.map",
+  "static/css/main.cb8f0c48.chunk.css.map": "/parrots/static/css/main.cb8f0c48.chunk.css.map",
+  "index.html": "/parrots/index.html",
+  "precache-manifest.184f07bdbfd2ddb734401f828ab4bfd2.js": "/parrots/precache-manifest.184f07bdbfd2ddb734401f828ab4bfd2.js",
+  "service-worker.js": "/parrots/service-worker.js"
+}
